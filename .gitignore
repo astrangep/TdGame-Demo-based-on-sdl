@@ -1,0 +1,19 @@
+# ==============================
+# Build output（编译产物）
+# ==============================
+build/
+
+
+# ==============================
+# Visual Studio
+# ==============================
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+*.userosscache
+*.VC.db
+*.opendb
+*.ipch
+
