@@ -1,6 +1,6 @@
 #define SDL_MAIN_HANDLED
 #include<iostream>
-#include"Game_manager.h"
+#include"game_manager.h"
 
 
 int main(int argc, char* argv){

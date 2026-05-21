@@ -1,0 +1,90 @@
+    {
+    "basic":{
+        "window_title":"能源保卫战",
+        "window_width":1280,
+        "window_height":720
+    },
+    "plyaer":{
+        "speed":5,
+        "attack_interval":0.8,
+        "attack_damage":[5, 10, 10, 15, 15, 20, 20, 20, 20, 20],
+        "skill1_interval":[5, 5, 5, 4, 4, 4, 4, 3, 3, 3],
+        "skill1_damage":[20, 20, 25, 25, 30, 30, 30, 35, 35, 40],
+        "skill2_interval":[0, 0, 0, 0, 0, 30, 30, 25, 25, 20],
+        "skill2_damage":[0, 0, 0, 0, 0, 150, 160, 170, 180, 200],
+        "upgrade_cost":[30, 30, 40, 50, 50, 100, 100, 120, 120, 200]
+    },
+    "tower":{
+        "Lasergun":	{
+			"interval":	[1, 0.899999976158142, 0.899999976158142, 0.800000011920929, 0.800000011920929, 0.699999988079071, 0.699999988079071, 0.600000023841858, 0.600000023841858, 0.5],
+			"damage":	[10, 12, 14, 16, 18, 20, 22, 24, 25, 25],
+			"view_range":	[5, 5, 5, 5, 6, 6, 6, 6, 6, 7],
+			"cost":	[50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+			"upgrade_cost":	[30, 40, 50, 60, 70, 80, 90, 100, 100]
+		},
+        "Stungun": {
+            "interval":	[2, 2, 2, 2, 2, 1.5, 1.5, 1.5, 1.5, 1.5],
+			"damage":	[15, 17, 19, 21, 23, 25, 27, 29, 31, 35],
+			"view_range":	[3, 3, 3, 3, 3, 4, 4, 4, 4, 5],
+			"cost":	[70, 70, 70, 70, 70, 70, 70, 70, 70, 70],
+			"upgrade_cost":	[50, 60, 70, 80, 90, 100, 100, 100, 100]
+        },
+
+        "Missile" : {
+            "interval":	[1.5, 1.5, 1.5, 1.5, 1.5, 1, 1, 1, 1, 1],
+			"damage":	[25, 28, 30, 32, 35, 38, 40, 42, 45, 50],
+			"view_range":	[5, 5, 6, 6, 6, 7, 7, 7, 8, 8],
+			"cost":	[120, 120, 120, 120, 120, 120, 120, 120, 120, 120],
+			"upgrade_cost":	[80, 90, 100, 100, 100, 100, 100, 100, 100]
+        }
+
+    },
+    "enemy":{
+        "AlienSoldier": {
+            "hp": 80,
+            "speed": 0.600000023841858,
+            "damage": 1,
+            "reward_ratio": 0.5,
+            "reward_number": 10,
+            "recover_range": -1,
+            "recover_intensity": 25
+
+        },
+        "AlienSoldierLeader":{
+            "hp": 200,
+            "speed": 0.800000011920929,
+            "damage": 1,
+            "reward_ratio": 0.8,
+            "reward_number": 20,
+            "recover_range": -1,
+            "recover_intensity": 25
+        },
+        "SpaceMonster":{
+            "hp": 150,
+            "speed": 1.5,
+            "damage": 1,
+            "reward_ratio": 0.5,
+            "reward_number": 20,
+            "recover_range": -1,
+            "recover_intensity": 25
+        },
+        "AlienWizard":{
+            "hp": 300,
+            "speed": 1.5,
+            "damage": 2,
+            "reward_ratio": 0.5,
+            "reward_number": 30,
+            "recover_range": 5,
+            "recover_intensity": 25
+        },
+        "SpaceBeast":{
+            "hp":999,
+            "speed": 2,
+            "damage":3,
+            "reward_ratio":1.0,
+            "reward_number":60,
+            "recover_range":-1,
+            "recover_intensity":25
+        }
+    }
+}

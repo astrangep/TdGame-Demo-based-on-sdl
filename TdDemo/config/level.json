@@ -1,0 +1,236 @@
+﻿[
+    {
+        "rewards":  100,
+        "interval":  3,
+        "spawn_list":  [
+                           {
+                               "interval":  0,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           }
+                       ]
+    },
+    {
+        "rewards":  200,
+        "interval":  5,
+        "spawn_list":  [
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  2,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  2,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  2,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "AlienSoldierLeader"
+                           }
+                       ]
+    },
+    {
+        "rewards":  300,
+        "interval":  10,
+        "spawn_list":  [
+                           {
+                               "interval":  1,
+                               "point":  2,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  2,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  2,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  2,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  2,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  2,
+                               "enemy":  "AlienSoldier"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  2,
+                               "enemy":  "AlienSoldierLeader"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           }
+                       ]
+    },
+    {
+        "rewards":  300,
+        "interval":  6,
+        "spawn_list":  [
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  2,
+                               "enemy":  "AlienWizard"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  2,
+                               "enemy":  "SpaceBeast"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  2,
+                               "enemy":  "SpaceBeast"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  2,
+                               "enemy":  "SpaceBeast"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  2,
+                               "enemy":  "SpaceBeast"
+                           },
+                           {
+                               "interval":  1,
+                               "point":  1,
+                               "enemy":  "SpaceMonster"
+                           },
+                           {
+                               "interval":  0,
+                               "point":  2,
+                               "enemy":  "SpaceBeast"
+                           }
+                       ]
+    }
+]
