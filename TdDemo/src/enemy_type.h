@@ -2,7 +2,7 @@
 #define _ENEMY_TYPE_H
 enum class EnemyType
 {
-	ALienSoldier,
+	AlienSoldier,
 	AlienSoldierLeader,
 	SpaceMonster,
 	AlienWizard,
